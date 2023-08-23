@@ -1,0 +1,13 @@
+.farm-fresh-fruits {
+  margin: 0;
+}
+.farm-fresh-fruits-container {
+  position: relative;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: center;
+  width: 584px;
+  height: 85px;
+}

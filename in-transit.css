@@ -1,0 +1,9 @@
+.in-transit {
+  position: relative;
+  width: 100%;
+  height: 75px;
+  background-image: url(./public/in-transit@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}

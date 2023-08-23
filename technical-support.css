@@ -1,0 +1,9 @@
+.technical-support {
+  position: relative;
+  width: 100%;
+  height: 70px;
+  background-image: url(./public/technical-support1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
